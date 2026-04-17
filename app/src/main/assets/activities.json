@@ -1,0 +1,174 @@
+[
+  {
+    "id": "act_001",
+    "athleteName": "Alice Chen",
+    "sport": "RUN",
+    "distanceMeters": 8000,
+    "durationSeconds": 1000,
+    "gpsPoints": [
+      {"lat": 40.7829, "lng": -73.9654},
+      {"lat": 40.7839, "lng": -73.9644},
+      {"lat": 40.7849, "lng": -73.9634},
+      {"lat": 40.7859, "lng": -73.9624},
+      {"lat": 40.7869, "lng": -73.9614},
+      {"lat": 40.7879, "lng": -73.9604},
+      {"lat": 40.7889, "lng": -73.9594},
+      {"lat": 40.7899, "lng": -73.9584},
+      {"lat": 40.7909, "lng": -73.9574},
+      {"lat": 40.7919, "lng": -73.9564}
+    ]
+  },
+  {
+    "id": "act_002",
+    "athleteName": "Bob Martinez",
+    "sport": "CYCLE",
+    "distanceMeters": 54000,
+    "durationSeconds": 3600,
+    "gpsPoints": [
+      {"lat": 40.7580, "lng": -73.9855},
+      {"lat": 40.7620, "lng": -73.9755},
+      {"lat": 40.7660, "lng": -73.9655},
+      {"lat": 40.7700, "lng": -73.9555},
+      {"lat": 40.7740, "lng": -73.9455},
+      {"lat": 40.7780, "lng": -73.9355},
+      {"lat": 40.7820, "lng": -73.9255},
+      {"lat": 40.7860, "lng": -73.9155}
+    ]
+  },
+  {
+    "id": "act_003",
+    "athleteName": "Carol Wright",
+    "sport": "SWIM",
+    "distanceMeters": 1800,
+    "durationSeconds": 900,
+    "gpsPoints": [
+      {"lat": 40.6892, "lng": -74.0445},
+      {"lat": 40.6890, "lng": -74.0445},
+      {"lat": 40.6888, "lng": -74.0445},
+      {"lat": 40.6888, "lng": -74.0443},
+      {"lat": 40.6890, "lng": -74.0443},
+      {"lat": 40.6892, "lng": -74.0443}
+    ]
+  },
+  {
+    "id": "act_004",
+    "athleteName": "Dave Kim",
+    "sport": "RUN",
+    "distanceMeters": 1200,
+    "durationSeconds": 100,
+    "gpsPoints": [
+      {"lat": 40.7100, "lng": -74.0060},
+      {"lat": 40.7103, "lng": -74.0057},
+      {"lat": 40.7106, "lng": -74.0054},
+      {"lat": 40.7109, "lng": -74.0051},
+      {"lat": 40.7112, "lng": -74.0048}
+    ]
+  },
+  {
+    "id": "act_005",
+    "athleteName": "Eve Santos",
+    "sport": "RUN",
+    "distanceMeters": 2200,
+    "durationSeconds": 100,
+    "gpsPoints": [
+      {"lat": 40.7200, "lng": -73.9900},
+      {"lat": 40.7203, "lng": -73.9897},
+      {"lat": 40.7206, "lng": -73.9894},
+      {"lat": 40.7209, "lng": -73.9891},
+      {"lat": 40.7212, "lng": -73.9888}
+    ]
+  },
+  {
+    "id": "act_006",
+    "athleteName": "Frank Okafor",
+    "sport": "CYCLE",
+    "distanceMeters": 45000,
+    "durationSeconds": 3600,
+    "gpsPoints": [
+      {"lat": 40.7600, "lng": -73.9700},
+      {"lat": 40.7601, "lng": -73.9698},
+      {"lat": 40.7602, "lng": -73.9696},
+      {"lat": 40.7603, "lng": -73.9694},
+      {"lat": 40.7604, "lng": -73.9692},
+      {"lat": 40.7605, "lng": -73.9690},
+      {"lat": 40.7606, "lng": -73.9688},
+      {"lat": 40.7607, "lng": -73.9686},
+      {"lat": 40.7608, "lng": -73.9684},
+      {"lat": 40.7609, "lng": -73.9682},
+      {"lat": 40.9100, "lng": -73.9600},
+      {"lat": 40.9101, "lng": -73.9598},
+      {"lat": 40.9102, "lng": -73.9596},
+      {"lat": 40.9103, "lng": -73.9594},
+      {"lat": 40.9104, "lng": -73.9592},
+      {"lat": 40.9105, "lng": -73.9590},
+      {"lat": 40.9106, "lng": -73.9588},
+      {"lat": 40.9107, "lng": -73.9586},
+      {"lat": 40.9108, "lng": -73.9584},
+      {"lat": 40.9109, "lng": -73.9582}
+    ]
+  },
+  {
+    "id": "act_007",
+    "athleteName": "Grace Liu",
+    "sport": "SWIM",
+    "distanceMeters": 1800,
+    "durationSeconds": 900,
+    "gpsPoints": [
+      {"lat": 40.6892, "lng": -74.0445},
+      {"lat": 40.6890, "lng": -74.0445},
+      {"lat": 40.6888, "lng": -74.0445},
+      {"lat": 40.6888, "lng": -74.0443},
+      {"lat": 40.6890, "lng": -74.0443},
+      {"lat": 40.6892, "lng": -74.0443}
+    ]
+  },
+  {
+    "id": "act_008",
+    "athleteName": "Heidi Nakamura",
+    "sport": "RUN",
+    "distanceMeters": 2500,
+    "durationSeconds": 100,
+    "gpsPoints": [
+      {"lat": 40.7600, "lng": -73.9700},
+      {"lat": 40.7601, "lng": -73.9699},
+      {"lat": 40.7602, "lng": -73.9698},
+      {"lat": 40.7603, "lng": -73.9697},
+      {"lat": 40.7604, "lng": -73.9696},
+      {"lat": 40.7674, "lng": -73.9695},
+      {"lat": 40.7675, "lng": -73.9694},
+      {"lat": 40.7676, "lng": -73.9693},
+      {"lat": 40.7677, "lng": -73.9692},
+      {"lat": 40.7678, "lng": -73.9691}
+    ]
+  },
+  {
+    "id": "act_009",
+    "athleteName": "Ivan Petrov",
+    "sport": "CYCLE",
+    "distanceMeters": 30000,
+    "durationSeconds": 2000,
+    "gpsPoints": [
+      {"lat": 40.7300, "lng": -73.9500},
+      {"lat": 40.7320, "lng": -73.9480},
+      {"lat": 40.7340, "lng": -73.9460},
+      {"lat": 40.7360, "lng": -73.9440},
+      {"lat": 40.7380, "lng": -73.9420},
+      {"lat": 40.7400, "lng": -73.9400}
+    ]
+  },
+  {
+    "id": "act_010",
+    "athleteName": "Judy Osei",
+    "sport": "SWIM",
+    "distanceMeters": 1500,
+    "durationSeconds": 600,
+    "gpsPoints": [
+      {"lat": 40.6800, "lng": -73.9700},
+      {"lat": 40.6798, "lng": -73.9700},
+      {"lat": 40.6796, "lng": -73.9700},
+      {"lat": 40.6796, "lng": -73.9698},
+      {"lat": 40.6798, "lng": -73.9698},
+      {"lat": 40.6800, "lng": -73.9698}
+    ]
+  }
+]
